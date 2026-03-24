@@ -18,6 +18,15 @@ npm install
 npm run dev
 ```
 
+## テスト
+```bash
+# 単体/コンポーネントテスト
+npm run test
+
+# ブラウザE2Eテスト
+npm run test:e2e
+```
+
 ## 記事追加
 `content/*.md` に以下形式で追加します。
 
